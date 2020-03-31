@@ -5,7 +5,7 @@
         public function Inicio()
         {
             $smarty =new Smarty();
-            $smarty->caching=true;
+            //$smarty->caching=true;
             $smarty->display('Master.tpl');
         }
     }

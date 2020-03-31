@@ -19,7 +19,8 @@
     }
     else
     {
-        $error=new Error();
-        $error->ErrorCarga();
+        //$error=new Error();
+        //$error->ErrorCarga();
+		echo "controlador no existe";
     }
 ?>
