@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-03-31 07:14:28
+/* Smarty version 3.1.34-dev-7, created on 2020-04-02 06:09:33
   from 'C:\xampp\htdocs\InventarioV2\ModeloInventarioV2\templates\Cabeceras\Footer.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5e82d1b49255a4_25479199',
+  'unifunc' => 'content_5e85657d81e407_02337331',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e82d1b49255a4_25479199 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e85657d81e407_02337331 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 			<footer>
 				<div class="row black">

@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2020-03-31 07:27:46
+/* Smarty version 3.1.34-dev-7, created on 2020-04-02 06:09:33
   from 'C:\xampp\htdocs\InventarioV2\ModeloInventarioV2\templates\Cabeceras\Header.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_5e82d4d23483e5_87174423',
+  'unifunc' => 'content_5e85657d52e7c5_02954604',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '032920c30069c93cc8c6cc0b7df7b7bb76e315a2' => 
     array (
       0 => 'C:\\xampp\\htdocs\\InventarioV2\\ModeloInventarioV2\\templates\\Cabeceras\\Header.tpl',
-      1 => 1585632462,
+      1 => 1585673885,
       2 => 'file',
     ),
   ),
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:Login.tpl' => 1,
   ),
 ),false)) {
-function content_5e82d4d23483e5_87174423 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e85657d52e7c5_02954604 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
   <html>
     <head>
@@ -36,7 +36,7 @@ function content_5e82d4d23483e5_87174423 (Smarty_Internal_Template $_smarty_tpl)
       <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 	  
-	  <?php echo '<script'; ?>
+	    <?php echo '<script'; ?>
  type = "text/javascript" src = "https://code.jquery.com/jquery-2.1.1.min.js"><?php echo '</script'; ?>
 >           
       <?php echo '<script'; ?>
